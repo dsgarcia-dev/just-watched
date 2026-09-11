@@ -1,0 +1,18 @@
+{
+  "name": "Just Watched",
+  "short_name": "Just Watched",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0c0b10",
+  "theme_color": "#0c0b10",
+  "description": "Log a movie take in the moment after the credits.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
